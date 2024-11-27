@@ -1,0 +1,45 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+caption {
+    background-color: cyan;
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+}
+th, td {
+    border: 2px solid gray;
+    padding: 10px;
+    font-weight: bold;
+}
+th {
+    background-color:yellow;
+    color: black;
+}
+td:nth-child(1) {
+    background-color: lightgray;
+    color: black;
+}
+td:nth-child(2) {
+    background-color: red;
+    color: white;
+}
+td:nth-child(3) {
+    background-color: red;
+    color:white;
+}
+td:nth-child(4) {
+    background-color: green;
+    color: white;
+}
+.yax{
+    background-color: red;
+}
+.yax2{
+    background-color: red;
+}
+.yax3{
+    background-color: red;
+}
